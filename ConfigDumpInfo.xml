@@ -20,7 +20,7 @@
 			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Dimension.идДок" id="b0e65e33-432a-4832-b6b7-c4184d35fea6"/>
 			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Attribute.ПредставлениеОбъекта" id="f8c7d9be-793e-4a76-a284-1db4a1c03ec0"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксРегИзмененийИзФормы.ManagerModule" id="0078350d-9de3-462d-976a-1d5ac2bf227b.2" configVersion="b80fc8ef843916e6bd97b37a2d40386c9a63aff5"/>
+		<Metadata name="InformationRegister.ксРегИзмененийИзФормы.ManagerModule" id="0078350d-9de3-462d-976a-1d5ac2bf227b.2" configVersion="06a859317eee6a40d5571f9bda1ee97baa44d7d4"/>
 		<Metadata name="Language.Русский" id="ca06ddd7-2097-481e-bafe-6fce0ca3f309" configVersion="e51b1b23e8c5fa755d75a84838885bd43e97bcd9"/>
 		<Metadata name="Role.ксСинхро_ОсновнаяРоль" id="4f872fd7-a320-4373-8138-42268710f183" configVersion="ce66408c060f9f35046c3e81fc670190c8a1c43a"/>
 		<Metadata name="ScheduledJob.ксСинхро" id="4fedb865-f4e5-475c-9b92-d5b1816e5f22" configVersion="1713e4a7eb2747f0e92f5d0015f9a5e8fe4f17c9"/>
