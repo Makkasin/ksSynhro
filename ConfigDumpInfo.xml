@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="CommonModule.глЗагрузитьОбъекты" id="25c59751-9e57-4d4f-b7c4-fe34de71e40e" configVersion="e8f7b492caf8d7f3d0d1c7fc3da7398cfbad8eda"/>
+		<Metadata name="CommonModule.глЗагрузитьОбъекты.Module" id="25c59751-9e57-4d4f-b7c4-fe34de71e40e.0" configVersion="38927b33068034ad4d0385e88b062ebac9e38fbe"/>
+		<Metadata name="CommonModule.глЛокализацияУсловияСинхронизации" id="34a25c2d-928b-4117-bce0-0c507c1c8c7a" configVersion="fde54d795c9dffd74e1f525eb8621274574da333"/>
+		<Metadata name="CommonModule.глЛокализацияУсловияСинхронизации.Module" id="34a25c2d-928b-4117-bce0-0c507c1c8c7a.0" configVersion="77316251624a025a36c4f805ac5f37d721cc9d53"/>
+		<Metadata name="CommonModule.глОбщийСинхро" id="f7f9b252-21be-4218-bbc7-8a997910bf04" configVersion="22a6f6df8255d8d254619ae916a336687f711ecb"/>
+		<Metadata name="CommonModule.глОбщийСинхро.Module" id="f7f9b252-21be-4218-bbc7-8a997910bf04.0" configVersion="1d27b55d9f40ece7bd63db9a02d546ff5af9ef86"/>
+		<Metadata name="Configuration.ксСинхро" id="7a170f70-4c1f-41e9-ad54-164f755360cc" configVersion="3275938dd05ef866f12171a347baf47b0813f3c4"/>
+		<Metadata name="HTTPService.ksSynhro" id="53d64936-4798-41a6-bef4-b0bf4a237300" configVersion="21ffc77a18123688bea3567ee0e575bfe3ae95bb">
+			<Metadata name="HTTPService.ksSynhro.URLTemplate.GET" id="4d4efec7-21f0-4d0a-8353-ba4b2ff10ab3"/>
+			<Metadata name="HTTPService.ksSynhro.URLTemplate.GET.Method.GET" id="659652f2-d7e7-4b9c-99f3-ca1dab278958"/>
+			<Metadata name="HTTPService.ksSynhro.URLTemplate.GET.Method.POST" id="aa11324f-adcb-4cd1-a5b6-04f4baf375d2"/>
+		</Metadata>
+		<Metadata name="HTTPService.ksSynhro.Module" id="53d64936-4798-41a6-bef4-b0bf4a237300.0" configVersion="968ae2a46c0259f303b0fb8740ba59110fbfbd45"/>
+		<Metadata name="InformationRegister.ксРегИзмененийИзФормы" id="0078350d-9de3-462d-976a-1d5ac2bf227b" configVersion="900936cd20aff3ae104a30e2c918ac71eab5b6d0">
+			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Attribute.Лог" id="783aaf5f-c47c-4765-aa23-1322a2a3c82c"/>
+			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Attribute.хэш" id="ae612190-0198-437c-b899-66da3531ab4a"/>
+			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Dimension.идДок" id="b0e65e33-432a-4832-b6b7-c4184d35fea6"/>
+			<Metadata name="InformationRegister.ксРегИзмененийИзФормы.Attribute.ПредставлениеОбъекта" id="f8c7d9be-793e-4a76-a284-1db4a1c03ec0"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксРегИзмененийИзФормы.ManagerModule" id="0078350d-9de3-462d-976a-1d5ac2bf227b.2" configVersion="b80fc8ef843916e6bd97b37a2d40386c9a63aff5"/>
+		<Metadata name="Language.Русский" id="ca06ddd7-2097-481e-bafe-6fce0ca3f309" configVersion="e51b1b23e8c5fa755d75a84838885bd43e97bcd9"/>
+		<Metadata name="Role.ксСинхро_ОсновнаяРоль" id="4f872fd7-a320-4373-8138-42268710f183" configVersion="ce66408c060f9f35046c3e81fc670190c8a1c43a"/>
+		<Metadata name="ScheduledJob.ксСинхро" id="4fedb865-f4e5-475c-9b92-d5b1816e5f22" configVersion="1713e4a7eb2747f0e92f5d0015f9a5e8fe4f17c9"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
