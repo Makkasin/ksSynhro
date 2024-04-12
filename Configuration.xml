@@ -66,6 +66,7 @@
 			<HTTPService>ksSynhro</HTTPService>
 			<ScheduledJob>ксСинхро</ScheduledJob>
 			<InformationRegister>ксРегИзмененийИзФормы</InformationRegister>
+			<InformationRegister>ксОчередьОбменов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
